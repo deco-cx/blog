@@ -1,0 +1,10 @@
+{
+	"posts": [
+		{"title": "A vida é curta",
+		"img": "test.png",
+		"descr": "Por Paul Graham, traduzido por ChatGPT.",
+		"path": "pg-vb-pt-br.md"
+		}
+	]
+}
+
