@@ -1,10 +1,45 @@
 {
 	"posts": [
-		{"title": "A vida é curta",
-		"img": "test.png",
-		"descr": "Por Paul Graham, traduzido por ChatGPT.",
-		"path": "pg-vb-pt-br.md"
+		{
+			"title": "A vida é curta",
+			"img": "test.png",
+			"descr": "Por Paul Graham, traduzido por ChatGPT.",
+			"path": "pg-vb-pt-br.md",
+			"date": "12/30/2022",
+			"author": "Chat GPT"
+		},
+		{
+			"title": "A vida é curta",
+			"img": "test.png",
+			"descr": "Por Paul Graham, traduzido por ChatGPT.",
+			"path": "pg-vb-pt-br.md",
+			"date": "11/29/2022",
+			"author": "Chat GPT"
+		},
+		{
+			"title": "A vida é curta",
+			"img": "test.png",
+			"descr": "Por Paul Graham, traduzido por ChatGPT.",
+			"path": "pg-vb-pt-br.md",
+			"date": "12/30/2022",
+			"author": "Chat GPT"
+		},
+		{
+			"title": "A vida é curta",
+			"img": "test.png",
+			"descr": "Por Paul Graham, traduzido por ChatGPT.",
+			"path": "pg-vb-pt-br.md",
+			"date": "11/29/2022",
+			"author": "Chat GPT"
+		},
+		{
+			"title": "A vida é curta",
+			"img": "test.png",
+			"descr": "Por Paul Graham, traduzido por ChatGPT.",
+			"path": "pg-vb-pt-br.md",
+			"date": "11/29/2022",
+			"author": "Chat GPT"
 		}
+
 	]
 }
-
