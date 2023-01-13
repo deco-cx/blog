@@ -1,12 +1,12 @@
 {
 	"posts": [
 		{
-			"title": "A vida é curta",
-			"img": "https://i.imgur.com/vRUsA70.jpeg",
-			"descr": "Por Paul Graham, traduzido por ChatGPT.",
-			"path": "pg-vb-pt-br.md",
-			"date": "12/30/2022",
-			"author": "Chat GPT"
+			"title": "Minha experiência criando uma página com deco.cx",
+			"img": "https://images.prismic.io/tavanoblog/e9e653f9-966a-4faa-a206-63a85f82f5f5_deco-cx-deno-land.jpg?auto=compress,format&w=3840&q=75",
+			"descr": "Recriando a página da deno-land utilizando a plataforma da deco.cx com as tecnologias: Deno, Fresh, Preact e Twind.",
+			"path": "criando-uma-pagina-com-decocx.md",
+			"date": "03/01/2023",
+			"author": "Guilherme Tavano"
 		},
 		{
 			"title": "A vida é curta",
