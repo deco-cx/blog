@@ -1,9 +1,3 @@
-# Minha experiência criando uma página com deco.cx
-
-Recriando a página da deno-land utilizando a plataforma da deco.cx com as tecnologias: Deno, Fresh, Preact e Twind.
-
-03 jan 2023, por Guilherme Tavano
-
 ![Minha experiência criando uma página com deco.cx](https://images.prismic.io/tavanoblog/e9e653f9-966a-4faa-a206-63a85f82f5f5_deco-cx-deno-land.jpg?auto=compress,format&w=3840&q=75)
 
 ## Desafio
