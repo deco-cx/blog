@@ -1,7 +1,3 @@
-# A vida é curta
-
-Janeiro de 2016 — Paul Graham — [Life is Short](http://paulgraham.com/vb.html) — [Traduzido por ChatGPT](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
-
 A vida é curta, como todos sabem. Quando era criança, costumava me perguntar sobre isso. A vida realmente é curta ou estamos realmente nos queixando de sua finitude? Seríamos tão propensos a sentir que a vida é curta se vivêssemos 10 vezes mais tempo?
 
 Como não parecia haver maneira de responder a essa pergunta, parei de me perguntar sobre isso. Depois tive filhos. Isso me deu uma maneira de responder à pergunta e a resposta é que a vida realmente é curta.
