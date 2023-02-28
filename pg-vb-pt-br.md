@@ -1,3 +1,6 @@
+![greg-rakozy-oMpAz-DN-9I-unsplash](https://user-images.githubusercontent.com/1315451/221979042-3ec2438f-bd81-4d29-a2b7-6a5cb9e6eab9.jpg)
+Photo by [Greg Rakozy](https://unsplash.com/@grakozy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/web?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 A vida é curta, como todos sabem. Quando era criança, costumava me perguntar sobre isso. A vida realmente é curta ou estamos realmente nos queixando de sua finitude? Seríamos tão propensos a sentir que a vida é curta se vivêssemos 10 vezes mais tempo?
 
 Como não parecia haver maneira de responder a essa pergunta, parei de me perguntar sobre isso. Depois tive filhos. Isso me deu uma maneira de responder à pergunta e a resposta é que a vida realmente é curta.
