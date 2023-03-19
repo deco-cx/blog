@@ -1,7 +1,16 @@
 {
 	"posts": [
+
 		{
-			"title": "Minha experiência criando uma página com deco.cx",
+			"title": "América Latina e o futuro das experiências digitais",
+			"descr": "Discurso da abertura da segunda Hackathon deco.cx.",
+			"img": "https://i.imgur.com/jzTDi1P.png",
+			"path": "abertura-ii-hackathon-deco.md",
+			"date": "03/12/2023",
+			"author": "Guilherme Rodrigues"
+		},
+		{
+			"title": "Minha experiência com deco.cx",
 			"img": "https://images.prismic.io/tavanoblog/e9e653f9-966a-4faa-a206-63a85f82f5f5_deco-cx-deno-land.jpg?auto=compress,format&w=3840&q=75",
 			"descr": "Recriando a página da deno-land utilizando a plataforma da deco.cx com as tecnologias: Deno, Fresh, Preact e Twind.",
 			"path": "criando-uma-pagina-com-decocx.md",
@@ -10,20 +19,11 @@
 		},
 		{
 			"title": "A vida é curta",
-			"img": "https://i.imgur.com/vRUsA70.jpeg",
+			"img": "https://i.insider.com/5e6bb1bd84159f39f736ee32?width=2000&format=jpeg&auto=webp",
 			"descr": "Por Paul Graham, traduzido por ChatGPT.",
 			"path": "pg-vb-pt-br.md",
 			"date": "11/29/2022",
 			"author": "Chat GPT"
-		},
-		{
-			"title": "Chat GPT",
-			"img": "https://img.olhardigital.com.br/wp-content/uploads/2023/01/chatgpt_assistente-1024x576.jpg",
-			"descr": "Por Paul Graham, traduzido por ChatGPT.",
-			"path": "pg-vb-pt-br.md",
-			"date": "12/30/2022",
-			"author": "Chat GPT"
 		}
-
 	]
 }
