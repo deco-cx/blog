@@ -44,34 +44,32 @@ Para piorar, as ferramentas necessárias para realizar o ciclo completo de CRO (
 Tudo isso aumenta drasticamente a complexidade operacional, especialmente em storefronts de alta escala, onde o ciclo de evolução é lento e ineficaz.
 
 
-Nossa solução
--------------
+## Nossa solução
 
 Nosso time ficou mais de 10 anos lidando com estes mesmo problemas. Sabemos que existem tecnologias para criar sites e lojas de alto desempenho, mas a maioria parece não ter a coragem de utilizá-las.
 
 Foi quando decidimos criar a deco.cx.
 
-Para habilitarmos a criação de experiências de alto desempenho foi necessário um novo paradigma, que simplifique a criação de lojas rápidas, sem sacrificar a capacidade de personalização e de evolução contínua.
+Para habilitarmos a criação de experiências de alto desempenho foi necessário um novo paradigma, que simplifique a criação de lojas rápidas, sem sacrificar a capacidade de **personalização e de evolução contínua.**
 
 Criamos uma plataforma headless que integra tudo o que uma marca ou agência precisa para gerenciar e otimizar sua experiência digital, tornando fácil tomar decisões em cima de dados reais, e aumentando continuamente as taxas de conversão.
 
-Como fazemos isso:
-
+## Como fazemos isso:
 
 ### 1. Com deco.cx fica rápido de construir
 
 Aceleramos desenvolvimento de lojas, apostando em uma combinação de tecnologias de ponta que oferecem uma experiência de desenvolvimento frontend otimizada e eficiente. A stack inclui:
 
-- [**Deno**](https://deno.land)\
+- [**Deno**](https://deno.land)
  Um runtime seguro para JavaScript e TypeScript, criado para resolver problemas do Node.js, como gerenciamento de dependências e configurações TypeScript.
 
-- [**Fresh**](https://fresh.deno.dev)\
+- [**Fresh**](https://fresh.deno.dev)
 Um framework web minimalista e rápido, que proporciona uma experiência de desenvolvimento mais dinâmica e eficiente, com tempos de compilação rápidos ou inexistentes.
 
-- **[Twind](https://twind.dev)**\
+- [**Twind**](https://twind.dev)
 Uma biblioteca de CSS-in-JS que permite a criação de estilos dinâmicos, sem sacrificar o desempenho, e oferece compatibilidade com o popular framework Tailwind CSS.
 
-- **[Preact](https://deno.land)**\
+- [**Preact**](https://deno.land)
 Uma alternativa leve ao React, que oferece desempenho superior e menor tamanho de pacote para aplicações web modernas.
 
 Essa combinação de tecnologias permite que a deco.cx ofereça uma plataforma de desenvolvimento frontend que melhora a produtividade e reduz o tempo de implementação, além de proporcionar sites de alto desempenho.
