@@ -1,12 +1,11 @@
-Com dezenas de milhões de e-commerces, o varejo digital nunca enfrentou tanta competição. Por outro lado, com o grande aumento do número de consumidores online, nunca houve maior oportunidade pra crescer. Neste contexto, oferecer experiências distintas é crucial.
+Com dezenas de milhões de e-commerces, o varejo digital nunca enfrentou tanta competição. Por outro lado, com o grande aumento do número de consumidores online, nunca houve maior oportunidade pra crescer. Neste contexto, **oferecer experiências distintas é crucial.**
 
-Contudo, mesmo as maiores marcas tem dificuldade construir algo além do previsível - páginas lentas e estáticas para todos os usuários. O resultado todos já sabem: baixa conversão -- pessoas deixam de comprar na loja porque não viram um conteúdo que lhe agrada ou porquê as páginas demoraram pra carregar em seus celulares.
+Contudo, mesmo as maiores marcas tem dificuldade construir algo além do previsível - páginas lentas e estáticas para todos os usuários. O resultado todos já sabem: **baixa conversão** -- pessoas deixam de comprar na loja porque não viram um conteúdo que lhe agrada ou porquê as páginas demoraram pra carregar em seus celulares.
 
 Vamos entender primeiro porque isso acontece.
 
 
-Por quê seu site performa mal?
--------------
+## Por quê seu site performa mal?
 
 ### 1. Sua loja demora para construir
 
@@ -21,7 +20,7 @@ Resultado: o custo de novas funcionalidades é caro e a entrega é demorada, al�
 
 Sabe-se que a velocidade de carregamento de uma página afeta drastricamente a taxa de conversão e o SEO. Em um site "médio", é esperado que cada 100ms a menos no tempo de carregamento de uma página, aumente em 1% a conversão.
 
-Ainda assim, a maior parte das lojas tem storefronts (frentes de loja de ecommerce) com nota abaixo de 50 no Google Lighthouse. E poucos parecem saber resolver.
+Ainda assim, a maior parte das lojas tem storefronts (frentes de loja de ecommerce) com nota abaixo de 50 no [Google Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/). E poucos parecem saber resolver.
 
 Com isso, o ecommerce global perde trilhões (!) de dólares em vendas.
 
@@ -105,24 +104,18 @@ Ao usar essas ferramentas em conjunto, é possível construir e-commerces de alt
 
 A plataforma deco oferece, em um mesmo produto, tudo o que as agências e marcas precisam para rodar o ciclo completo de evolução da loja:
 
-- **Library**\
-Onde os desenvolvedores criam (ou customizam) [loaders](https://www.deco.cx/docs/en/concepts/loader) que puxam dados de qualquer API externa, e usam os dados coletados para criar componentes de interface totalmente editáveis pelos usuários de negócio ([Sections](https://www.deco.cx/docs/en/concepts/section)).
+- **Library**: Onde os desenvolvedores criam (ou customizam) [loaders](https://www.deco.cx/docs/en/concepts/loader) que puxam dados de qualquer API externa, e usam os dados coletados para criar componentes de interface totalmente editáveis pelos usuários de negócio ([Sections](https://www.deco.cx/docs/en/concepts/section)).
 
-- **Pages**\
-Nosso CMS integrado, para que o time de negócio consiga [compor e editar experiências rapidamente](https://www.deco.cx/docs/en/concepts/page), usando as funções e componentes de alto desempenho pré-construidos pelos seus desenvolvedores, sem precisar de uma linha de código.
+- **Pages**: Nosso CMS integrado, para que o time de negócio consiga [compor e editar experiências rapidamente](https://www.deco.cx/docs/en/concepts/page), usando as funções e componentes de alto desempenho pré-construidos pelos seus desenvolvedores, sem precisar de uma linha de código.
 
-- **Campanhas**\
-Nossa ferramenta de personalização que te permite agendar ou customizar a mudança que quiser por data ou audiência. Seja uma landing page para a Black Friday ou uma sessão para um público específico, você decide como e quando seu site se comporta para cada usuário.
+- **Campanhas**: Nossa ferramenta de personalização que te permite agendar ou customizar a mudança que quiser por data ou audiência. Seja uma landing page para a Black Friday ou uma sessão para um público específico, você decide como e quando seu site se comporta para cada usuário.
 
-- **Experimentos**\
-Testes A/B ou multivariados em 5 segundos - nossa ferramenta te permite acompanhar, em tempo real, a performance dos seus experimentos e relação à versão de controle.
+- **Experimentos**: Testes A/B ou multivariados em 5 segundos - nossa ferramenta te permite acompanhar, em tempo real, a performance dos seus experimentos e relação à versão de controle.
 
-- **Analytics**\
-Dados em tempo real sobre toda a jornada de compra e a performance da loja. Aqui você cria relatórios personalizados, que consolidam dados de qualquer API externa./
+- **Analytics**: Dados em tempo real sobre toda a jornada de compra e a performance da loja. Aqui você cria relatórios personalizados, que consolidam dados de qualquer API externa.
 
 
-O que está por vir
--------------
+## O que está por vir
 
 Estamos só começando. Nossa primeira linha de código na deco foi em Setembro 2022. De lá pra cá montamos [uma comunidade no Discord](http://deco.cx/discord), que já conta com 1.050+ membros, entre agências, estudantes, marcas e experts.
 
