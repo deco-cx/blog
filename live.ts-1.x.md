@@ -8,7 +8,7 @@ In this blog post, we'll take a closer look at three of `live.ts@v1`'s most exci
 
 Thanks to everyone who made this release possible!
 
-@Steffany-Martins, @augustocb, @eduardobbrito, @guifromrio, @guitavano, @igorbrasileiro, @lucis, @marialuizaaires, @matheusgr, @mcandeia, @soutofernando, '@tlgimenes
+@Steffany-Martins, @augustocb, @eduardobbrito, @guifromrio, @guitavano, @igorbrasileiro, @lucis, @marialuizaaires, @matheusgr, @mcandeia, @soutofernando, @tlgimenes
 
 # Overview
 
