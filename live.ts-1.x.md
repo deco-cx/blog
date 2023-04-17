@@ -1,8 +1,8 @@
-# Introducing live.ts@v1 v1: Inline Loader, Layout Pages, Client-Side Loader Invocation and more!
+# Introducing live.ts@v1 v1: Inline Loader, Page Layouts, Client-Side Loader Invocation and more!
 
 In the world of web development, every second counts. A slow website can drive visitors away, and even a small delay can affect conversion rates. That's why we're excited to announce `live.ts@v1`, a new version of our platform that includes several key features to help you build faster, more efficient websites.
 
-In this blog post, we'll take a closer look at three of `live.ts@v1`'s most exciting features: Inline Loader, Layout Pages, and Client-Side Loader Invocation.
+In this blog post, we'll take a closer look at three of `live.ts@v1`'s most exciting features: Inline Loader, Page Layouts, and Client-Side Loader Invocation.
 
 # Acknowledgements
 
@@ -37,13 +37,13 @@ The Inline Loader feature also includes improvements on JSONSchema generator. It
 [Proposal](https://github.com/deco-cx/live.ts/issues/164)
 Check the [data-fetching](https://www.deco.cx/docs/en/tutorials/data-fetching) documentation for more information.
 
-# Layout Pages
+# Page Layouts
 
-Creating consistent and visually appealing layouts across your website can be a challenge. With `live@v1`'s Layout Pages feature, you can now save your pages as a layout and use them across your site pages. That means you can create a page that has a header and a footer and focus only on the content of your shopping pages.
+Creating consistent and visually appealing layouts across your website can be a challenge. With `live@v1`'s Page Layouts feature, you can now save your pages as a layout and use them across your site pages. That means you can create a page that has a header and a footer and focus only on the content of your shopping pages.
 
-Layout Pages feature also includes sections inside sections, allowing you to build up a section that receives another section as a parameter. This makes it easier to create complex, nested layouts that are easy to maintain.
+Page layouts feature also includes sections inside sections, allowing you to build up a section that receives another section as a parameter. This makes it easier to create complex, nested layouts that are easy to maintain.
 
-The sections used in Layout Pages are shared across all pages that inherints the layout, so whenever you change the Layout page the changes will be reflected in the entire site!
+The sections used in page layouts are shared across all pages that inherints the layout, so whenever you change the page layouts the changes will be reflected in the entire site!
 
 ## Further details
 
