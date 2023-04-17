@@ -26,9 +26,9 @@ Com isso, o ecommerce global perde trilhões (!) de dólares em vendas.
 
 Parte do problema é a escolha do framework e das tecnologias envolvidas:
 
-a.  SPA (Single Page Application) não é a tecnologia ideal para ecommerce, especialmente para performance e SEO.
+- a.  SPA (Single Page Application) não é a tecnologia ideal para ecommerce, especialmente para performance e SEO.
 
-b.  A complexidade de criar código com esse paradigma cria bases de código difíceis de manter e adicionar novas funcionalidades.
+- b.  A complexidade de criar código com esse paradigma cria bases de código difíceis de manter e adicionar novas funcionalidades.
 
 
 ### 3. Sua loja demora para evoluir
