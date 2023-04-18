@@ -1,4 +1,4 @@
-# Introducing live.ts@v1 v1: Inline Loader, Page Layouts, Client-Side Loader Invocation and more!
+# Introducing live.ts@v1: Expressive loaders, inline loaders, Page Layouts, Client-Side Loader Invocation and more!
 
 In the world of web development, every second counts. A slow website can drive visitors away, and even a small delay can affect conversion rates. That's why we're excited to announce `live.ts@v1`, a new version of our platform that includes several key features to help you build faster, more efficient websites.
 
@@ -25,6 +25,10 @@ Developers can now bring their own blocks and configurable elements to create cu
 But that's just the beginning. With the new engine in place, we can continue to push the boundaries of what's possible in web development. We'll be able to add new features and capabilities that were previously unthinkable, making `live.ts@v1` an even more powerful tool for developers.
 
 So if you're looking to create websites and applications that are both powerful and flexible, you've come to the right place. With `live.ts@v1`, you'll be able to take your development skills to the next level and build amazing things. The future of web development is here, at edge, and we're just getting started.
+
+# Expressive loaders
+
+We are excited to announce a significant change in the way developers create `loaders` for our platform. With this change, we have simplified the loader creation process, making it easier and faster for developers to create and modify loaders without breaking any existing constraints. This new approach allows us to evolve the platform more quickly, while providing developers with a more streamlined workflow. We believe that this change will help developers to be more productive and efficient in their work, ultimately leading to faster development times and a better user experience for our customers. The new approach removes the necessity for declaring `LoaderReturnType` and simplifies the loader function signature. The old `functions` approach still works, but we have decided to deprecate it. Now, `loaders` can be created and modified inside `loaders/` folder. Check our 1.0.0 [documentation](https://www.deco.cx/docs/en/concepts/loader) for more information.
 
 # Inline Loaders
 
