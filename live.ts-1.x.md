@@ -63,6 +63,22 @@ Moreover, the client-side invocation feature ensures that your data fetching is 
 
 Check the [Client-side loaders invocation](https://www.deco.cx/docs/en/tutorials/client-side-invocation) documentation for more information.
 
+# Coming soon
+
+We're excited to share with you some of the upcoming features that are in our roadmap:
+
+1. **Durable workflows** - Developers will be able to create workflows as simple functions that are executed in a reliable and durable way. This allows you to create long-running persistent workflows that can survive failures and continue from where they left off. Use case: Integrating with e-commerce platforms like VTEX, where orders can be received and sent to an ERP even if there are system failures.
+2. **Type extensions** - You'll be able to write simple functions that extend an existing type without changing your source code.
+3. **Secrets storage** - You'll be able to store and use your secrets with confidence, and use them at runtime without compromising the simplicity of running your code locally.
+4. **Indexed storage for document collection** - Create your own database API that allows you to create your own data types, store, read, search, and much more! Use case: A blogger wants to create their own blog platform with custom data types and advanced search capabilities.
+5. **Dynamically importing blocks** - Add new features to your store without touching any line of code by importing existing blocks from the community and other sites. Use case: A developer wants to add a new payment gateway to their e-commerce store without modifying the existing codebase.
+6. **Extend your admin with dashboards** created by developers from the community. Use case: A company wants to track their sales metrics and inventory levels with a custom dashboard created by a third-party developer.
+7. **Flawless onboarding with a self-service UI to create your stores** - Simplify the onboarding experience for your users with an intuitive UI that guides them through the process of creating their own store, without requiring any technical knowledge. This is especially useful for sites built with the community-maintained components.
+8. **ChatGPT-based suggestions** for your sections, landing pages, images and texts, audience segmentation and more - Use the power of AI to improve the quality and relevance of your content. ChatGPT can provide suggestions for various elements of your website, such as the layout of your landing pages, the images you use, and the messaging you use to target different audience segments. This can help you create more personalized experiences for your users and improve overall engagement.
+9. **Inline editing through UI**: This is a giant unlock for us, by enabling business users to easily customize their store's sections and components by clicking on visual elements and editing their properties. With this feature, business users can quickly see how their changes affect the layout and appearance of their store, making it easier to fine-tune and optimize their design.
+
+We are absolutely thrilled to bring all these exciting new features to our users! Our team has been working tirelessly to make sure these enhancements are not only innovative and cutting-edge, but also easy to use and seamlessly integrate with your business processes. We can't wait to see what you create with these new tools and look forward to continuing to improve and evolve our platform to meet the needs of our users. Stay tuned for more updates and announcements!
+
 # Migrate your site now
 
 [Migration Guide](https://www.deco.cx/docs/en/migration-guides/v1.x)
