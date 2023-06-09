@@ -139,3 +139,5 @@ A ferramenta é nova e já entrega muita coisa legal. A realização desse desaf
 Minha recomendação a todos é que entrem na [Comunidade no Discord](https://discord.gg/RZkvt5AE) e acompanhem as novidades para não ficar para trás.
 
 Se possível, criem um site na ferramenta e façam os seus próprios testes.
+
+Em parceria com [TavanoBlog](https://tavanoblog.com.br/).
