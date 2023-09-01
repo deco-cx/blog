@@ -1,4 +1,4 @@
-**Deco: A Era dos Apps Começou! 🚀**
+**A Era dos Apps Começou! 🐁🐁🐁**
 
 _1 de setembro de 2023_
 
