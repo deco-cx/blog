@@ -37,7 +37,3 @@ Desenvolvedores, mergulhem em nosso [guia](https://www.deco.cx/docs/en/developin
 Isso é apenas o começo. Estamos trabalhando continuamente para aprimorar nosso ecossistema de Apps e explorar novos recursos, como transições de visualização e soluções de estilo.
 
 Fiquem ligados e vamos construir juntos o futuro do desenvolvimento web!
-
----
-
-Esperamos que esta estrutura ajude você a criar um post de blog envolvente e informativo sobre a nova era dos Apps na deco!
