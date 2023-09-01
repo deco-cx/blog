@@ -20,6 +20,8 @@ Com as apps, você tem o poder de definir propriedades necessárias para a funci
 
 Introduzimos vários templates de lojas integradas com plataformas como - Vnda., VTEX e Shopify. Agora, você tem a flexibilidade de escolher o template que melhor se adapta às suas necessidades e pode criar facilmente sua loja a partir desses templates.
 
+<img width="1512" alt="image" src="https://github.com/deco-cx/blog/assets/5839364/3872e086-572e-40ec-98ca-11c2bc83c59d">
+
 **DecoHub: Seu Hub de Apps**
 
 Com a estreia do DecoHub, você pode descobrir e instalar uma variedade de apps com base em suas necessidades do seu negócio. Se você é um desenvolvedor, pode criar seus próprios apps fora do repositório do [deco-cx/apps](http://github.com/deco-cx/apps) e enviar um PR para adicioná-los ao DecoHub.
