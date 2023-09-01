@@ -5,8 +5,7 @@ _1 de setembro de 2023_
 _Marcos Candeia, Tiago Gimenes_
 
 _Product Updates_
-
-![Logo da deco](https://raw.githubusercontent.com/deco-cx/deco/main/assets/logo.svg)
+<img align="center" src="https://raw.githubusercontent.com/deco-cx/deco/main/assets/logo.svg" height="400px" alt="The Deco Framework logo: A capybara in its natural habitat">
 
 Nesta última versão, a deco está revolucionando a forma como você adiciona funcionalidades em seus **sites**. Dê as boas-vindas à era dos Apps.
 
