@@ -1,6 +1,13 @@
 {
 	"posts": [
-
+		{
+			"title": "Como utilizar apps para adicionar funcionalidades aos seus sites.",
+			"descr": "A era dos Apps!",
+			"img": "https://raw.githubusercontent.com/deco-cx/deco/main/assets/logo.svg",
+			"path": "the-apps-era.md",
+			"date": "01/23/2023",
+			"author": "Marcos Candeia, Tiago Gimenes"
+		},
 		{
 			"title": "Como a deco.cx faz sua loja converter mais",
 			"descr": "Descubra como a nossa plataforma headless ajuda lojas virtuais a converter mais clientes, simplificando a criação e manutenção de lojas rápidas e personalizáveis. ",
