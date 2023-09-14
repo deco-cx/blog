@@ -3,9 +3,9 @@
 		{
 			"title": "A nova fase da Lojas Torra com a deco.cx.",
 			"descr": "Como a Lojas Torra dobrou sua taxa de conversão após migrar o front do seu ecommerce para a deco.cx",
-			"img": "https://www.deco.cx/live/invoke/deco-sites/std/loaders/x/image.ts?src=https%3A%2F%2Fozksgdmyrqcxcwhnbepg.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fassets%2F530%2Fa0b2bb84-096e-48c6-84be-eb3375199108&fit=cover&width=936&height=500",
+			"img": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1818/25d0e278-298f-403d-b5ae-f33fa3d61f7f",
 			"path": "case-lojas-torra",
-			"date": "08/31/2023",
+			"date": "31/08/2023",
 			"author": "Por Maria Cecilia Marques"
 		},
 		{
@@ -13,7 +13,7 @@
 			"descr": "A era dos Apps!",
 			"img": "https://raw.githubusercontent.com/deco-cx/deco/main/assets/logo.svg",
 			"path": "apps-era.md",
-			"date": "01/23/2023",
+			"date": "23/01/2023",
 			"author": "Marcos Candeia, Tiago Gimenes"
 		},
 		{
