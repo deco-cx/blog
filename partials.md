@@ -32,3 +32,5 @@ Veja `Deferred` em ação neste [link](https://storefront-vtex.deco.site/home-pa
 > Observe que, para a seção `Deferred` aparecer, você deve estar na versão mais recente do `fresh`, `apps` e deco!
 
 Uma pergunta que você pode estar se fazendo agora é: Como escolher as seções que devo incluir no deferred? Para isso, use a aba de desempenho e comece pelas seções mais pesadas que oferecem o maior retorno!
+
+Para mais informações, veja nossas [docs](https://www.deco.cx/docs/en/developing/partial)
