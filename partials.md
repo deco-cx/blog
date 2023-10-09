@@ -1,7 +1,5 @@
-# Partials: Revolucionando o Desenvolvimento Web
-
 <div align="center" style="display: flex; justify-content: center; border-radius:4px; width: 100%" >
-<img width="250px" height="250px" src="https://github.com/deco-cx/blog/assets/1753396/71348746-ddc0-49d0-9d2e-e5651e23176a" />
+<img width="350px" height="350px" src="https://github.com/deco-cx/blog/assets/1753396/71348746-ddc0-49d0-9d2e-e5651e23176a" />
 </div>
 
 [Fresh](https://fresh.deno.dev/), o framework web utilizado pela Deco, é conhecido por possibilitar a criação de páginas de altíssimo desempenho. Uma das razões pelas quais as páginas criadas na Deco são tão eficientes é devido à arquitetura de ilhas. Essa arquitetura permite que os desenvolvedores removam partes não interativas do pacote final de JavaScript, reduzindo a quantidade total de JavaScript na página e aliviando o navegador para realizar outras tarefas.
