@@ -1,6 +1,14 @@
 {
 	"posts": [
 		{
+			"title": "6 meses de lojas em produçāo",
+			"descr": "Uma jornada de aprendizados",
+			"img": "https://github.com/deco-cx/blog/assets/1753396/e276924f-982f-4df5-bfd2-de6a50e28299",
+			"path": "6-meses-licoes.md",
+			"date": "06/10/2023",
+			"author": "Gui Tavano, Tiago Gimenes"
+		},
+		{
 			"title": "Partials",
 			"descr": "Revolucionando o Desenvolvimento Web",
 			"img": "https://github.com/deco-cx/blog/assets/1753396/e276924f-982f-4df5-bfd2-de6a50e28299",
