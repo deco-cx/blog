@@ -9,7 +9,7 @@ Todos projetos criados na Deco partem de um template pré-configurado com divers
 O fluxo que descobrimos ser o ideal é o seguinte:
 
 1. Criar o projeto.
-2. Personalizar o tema, componentes, otimização de SEO, entre outros.
+2. Personalizar o tema, componentes, otimização de SEO, entre outros através do admin da deco.
 3. Apresentar o resultado ao cliente final e coletar feedback.
 4. Com base no feedback, ajustar a loja no CMS, usando as seções predefinidas e voltar ao passo 3.
 6. Se o cliente estiver satisfeito, migrar o domínio para a Deco.
@@ -56,6 +56,4 @@ Para solucionar esse problema, recomendamos substituir `w-full` por classes rela
 Isso garantirá que o layout funcione corretamente em todos os navegadores.
 
 
-Nesses últimos seis meses, mergulhamos em uma jornada de aprendizado contínuo ao levar nossas lojas para produção. Aprendemos a importância de começar o desenvolvimento de uma loja focando no CMS e, gradualmente, personalizando de acordo com as necessidades do cliente. A transição da tag <dialog> para <input type="checkbox> aprimorou significativamente a compatibilidade com diversos dispositivos, especialmente iPhones. Além disso, destacamos a importância de evitar unidades absolutas, como vh e vw, para garantir uma experiência de usuário consistente em todas as telas. E finalmente, a combinação de flexbox com unidades percentuais requer atenção especial, garantindo a compatibilidade em navegadores mais antigos.
-
-Estamos comprometidos em continuar compartilhando nossas experiências e aprendizados. Em breve, retornaremos com mais insights valiosos e lições aprendidas, à medida que avançamos em nossa jornada de desenvolvimento das lojas mais rapidas da web.
+Estamos sempre acompanhando os novos projetos, coletando os apresentados e melhorando o template [Storefront](https://github.com/deco-sites/storefront).
