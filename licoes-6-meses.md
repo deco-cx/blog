@@ -1,4 +1,4 @@
-# 6 Meses de Lojas em Produção: Um Estudo de Caso
+<img width="602" alt="image" src="https://github.com/deco-cx/blog/assets/1753396/20fb996b-4d04-417c-af69-5beb2a7e7969">
 
 Nos últimos seis meses acumulamos um valioso conjunto de lições ao levar lojas para produção. Nesse período, aprendemos o que deve ser evitado, o que não funciona e a melhor maneira de iniciar o desenvolvimento de uma loja online. A seguir, compartilhamos um resumo das lições que adquirimos durante essa jornada.
 
