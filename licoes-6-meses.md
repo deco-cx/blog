@@ -47,6 +47,7 @@ Outro problema que identificamos em algumas lojas diz respeito ao layout quebrad
 Nesse exemplo, estamos combinando flexbox (classe `flex`) com unidades percentuais (`width: 100%`). Isso pode funcionar em navegadores mais recentes, mas causa problemas em versões mais antigas do Safari, como o iPhone 10, 11 e 12.
 
 Para solucionar esse problema, recomendamos substituir `w-full` por classes relacionadas ao flexbox:
+
  ```html
 <div class="flex">
    <div class="flex-grow"/>
