@@ -1,6 +1,14 @@
 {
 	"posts": [
 		{
+			"title": "Admin Reloaded",
+			"descr": "Kicking Off October Launch Month 🚀",
+			"img": "https://github.com/deco-cx/blog/assets/1633518/9737441e-b6bb-48f2-b5e6-a7a83c6dcf6b",
+			"path": "admin-reloaded.md",
+			"date": "11/10/2023",
+			"author": "Guilherme and the deco.cx team"
+		},
+		{
 			"title": "6 meses de lojas em produçāo",
 			"descr": "Uma jornada de aprendizados",
 			"img": "https://github.com/deco-cx/blog/assets/1753396/20fb996b-4d04-417c-af69-5beb2a7e7969",
