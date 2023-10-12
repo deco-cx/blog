@@ -29,12 +29,6 @@ Your new Visual Library is here. Easily edit and create headers, footers, banner
 
 Manage all your installed apps and their settings in one place. And keep an eye out - we’re rolling out improvements throughout the month.
 
-##### Deployments
-
-<img width="818" alt="New navigation menu on deco.cx" src="https://github.com/deco-cx/blog/assets/1633518/55a1fb34-78fa-4e02-b906-b1e2c9be8920">
-
-Track deno deploy versions, and roll back with ease. Every new commit is displayed, making version management a breeze.
-
 ### Coming Up in October Launch Month
 
 We’re not stopping here. Every week, we’re rolling out new features leading up to the official launch of the new admin panel on October 31st, coinciding with our Fourth Hackathon. Here’s a sneak peek:
