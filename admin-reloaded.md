@@ -35,14 +35,14 @@ Manage all your installed apps and their settings in one place. And keep an eye 
 
 We’re not stopping here. Every week, we’re rolling out new features leading up to the official launch of the new admin panel on October 31st, coinciding with our Fourth Hackathon. Here’s a sneak peek:
 
-- End-to-end New Analytics and VTEX Funnel  
-- A new editor with full variant support and enhanced publishing  
-- Easy redirects and proxies setup  
-- SEO updates and simplified new site creation  
-- Quick start on [play.deco.cx](https://play.deco.cx/)  
-- Unified release history and easy version restoring with GH + Deco integration  
-- A comprehensive library of ecommerce components  
-- One-click app installations from Deco hub  
+* End-to-end New Analytics and VTEX Funnel  
+* A new editor with full variant support and enhanced publishing  
+* Easy redirects and proxies setup  
+* SEO updates and simplified new site creation  
+* Quick start on [play.deco.cx](https://play.deco.cx/)  
+* Unified release history and easy version restoring with GH + Deco integration  
+* A comprehensive library of ecommerce components  
+* One-click app installations from Deco hub  
 
 ### Final Words
 
