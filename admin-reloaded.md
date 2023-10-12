@@ -13,6 +13,8 @@ Switching teams is now hassle-free. Do it straight from the topbar, no need to r
 #### 2. New Site Home
 
 
+<img width="1511" alt="Visualize the sections on your deco.cx site" src="https://github.com/deco-cx/blog/assets/1633518/77027d9d-3120-4561-b6c0-1190c6bc315d">
+
 We’ve made it simpler and more intuitive, focusing on a clean design that puts your site and important info front and center.
 
 #### 3. New Admin Pages
@@ -33,14 +35,14 @@ Manage all your installed apps and their settings in one place. And keep an eye 
 
 We’re not stopping here. Every week, we’re rolling out new features leading up to the official launch of the new admin panel on October 31st, coinciding with our Fourth Hackathon. Here’s a sneak peek:
 
--   End-to-end New Analytics and VTEX Funnel
--   A new editor with full variant support and enhanced publishing
--   Easy redirects and proxies setup
--   SEO updates and simplified new site creation
--   Quick start on [play.deco.cx](https://play.deco.cx/)
--   Unified release history and easy version restoring with GH + Deco integration
--   A comprehensive library of ecommerce components
--   One-click app installations from Deco hub
+-   End-to-end New Analytics and VTEX Funnel  
+-   A new editor with full variant support and enhanced publishing  
+-   Easy redirects and proxies setup  
+-   SEO updates and simplified new site creation  
+-   Quick start on [play.deco.cx](https://play.deco.cx/)  
+-   Unified release history and easy version restoring with GH + Deco integration  
+-   A comprehensive library of ecommerce components  
+-   One-click app installations from Deco hub  
 
 ### Final Words
 
