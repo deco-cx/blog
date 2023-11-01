@@ -1,0 +1,35 @@
+# Preparativos para a Black Friday
+
+## Introdução
+A Black Friday está logo ali, e é uma oportunidade incrível para as empresas online aumentarem suas vendas. Para ajudá-lo a aproveitar ao máximo esse periodo de compras, compilamos uma lista de tarefas essenciais para garantir que sua loja virtual esteja totalmente preparada para a Black Friday 2023.
+
+## Adote Ahead-of-Time Builds
+O Fresh lançou recentemente um recurso inovador chamado "ahead of time builds", projetado para transformar a maneira como você cria e entrega seu site. Essa abordagem inovadora não apenas estabiliza o JavaScript de sua loja, mas também melhora significativamente o tempo de inicialização, reduzindo os tempos de inicialização do servidor. Para entender completamente essa nova abordagem, você pode explorar a documentação estruturada fornecida pela Fresh [aqui](https://fresh.deno.dev/docs/concepts/ahead-of-time-builds).
+
+Na Deco.cx, recomendamos enfaticamente a adoção da versão antecipada, pois ela proporciona escalabilidade ao seu servidor, necessária para lidar com as demandas de eventos como a Black Friday. Para migrar para esta nova versão, instrua seu desenvolvedor a fazer a atualização usando o seguinte comando:
+
+```sh
+deno run -Ar https://deco.cx/upgrade
+```
+
+Após a conclusão da atualização, certifique-se de que:
+
+1. Sua loja está funcionando corretamente, o que inclui verificar as páginas iniciais, de detalhes de produtos (PDP) e de listagem de produtos (PLP), bem como verificar a funcionalidade de adicionar ao carrinho e quaisquer outros fluxos críticos.
+
+2. A edição administrativa está funcionando sem problemas, permitindo que você edite as seções de sua loja e as publique.
+
+Se sua loja já está online, a equipe da Deco.cx já executou este comando para você. Para verificar, peça ao seu desenvolvedor para procurar um Pull Request (PR) no GitHub com o título "Preparativos para a Black Friday". Se você encontrar algum problema durante este processo, não hesite em nos contatar no [Discord da Deco.cx](https://deco.cx/discord).
+
+## Suporte para o Safari em Dispositivos Móveis
+Alguns meses atrás, compartilhamos um post no blog detalhando as [lições que aprendemos](https://www.deco.cx/en/blog/licoes-6-meses.md) com nossas lojas em produção. Recomendamos enfaticamente a implementação de todas as sugestões mencionadas no post antes da Black Friday. No entanto, um dos passos mais críticos é garantir que sua loja funcione perfeitamente nas versões 12, 13 e 14 do Safari.
+
+Para alcançar isso, siga estas etapas:
+
+1. Verifique se o seu arquivo `fresh.config.ts` inclui o alvo de compilação Safari12.
+
+2. Certifique-se de que seu site não utilize a tag `<dialog>`.
+
+Envolve seu desenvolvedor para fazer os ajustes necessários para remover a tag `<dialog>` e definir o `Safari12` como o alvo de compilação. Recomendamos realizar esta etapa após a migração para as compilações antecipadas, a fim de garantir uma transição tranquila.
+
+## Conclusão
+Conforme iniciamos a temporada de compras de fim de ano, a equipe da Deco.cx está dedicada a fornecer estabilidade e confiabilidade durante este período crucial. A partir desta semana, estaremos trabalhando ativamente em melhorias de estabilidade para aprimorar sua experiência na Black Friday. É crucial manter-se atualizado com as versões mais recentes da Deco e ficar atento a mais posts informativos sobre como otimizar sua loja virtual para o sucesso na Black Friday.
